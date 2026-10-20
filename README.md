@@ -174,3 +174,5 @@ tests/test_metrics.py::test_calculate_dora_metrics_aggregation PASSED
 - [ ] **Step 5: Docker Containerization** *(Pending later milestone)*
 - [ ] **Step 6: CI/CD Pipeline Automation** *(Pending later milestone)*
 - [ ] **Step 7: Production Cloud Deployment** *(Pending later milestone)*
+
+Demo update: testing our automated DevOps pipeline.
